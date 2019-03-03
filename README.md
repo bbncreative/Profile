@@ -1,5 +1,7 @@
 # Profile
 
+[![CircleCI](https://circleci.com/gh/bbncreative/Profile.svg?style=svg)](https://circleci.com/gh/bbncreative/Profile)
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
